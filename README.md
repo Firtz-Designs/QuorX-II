@@ -23,7 +23,7 @@ In der <code>template.cfg</code> werden die angaben über key value erstellt! (k
 
 name | description | compatible
 ------------ | ------------- | ------------- 
-**Breadcrumb Navigation** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | web,phone
+**breadcrumb** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | web,phone
 
 ****
 
@@ -31,7 +31,7 @@ name | description | compatible
 
 name | function | description | compatible
 ------------ | ------------- | ------------- | -------------
-**MultiCasting** | Metadaten, Backbutton, Sidebar, Social Icons, Spezial Footer, Feedlist | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann ermöglicht es dir diese Extension eine Startseite für dein Firtz zu erzeugen | web,phone 
+**multicasting** | Metadaten, Backbutton, Sidebar, Social Icons, Spezial Footer, Feedlist | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann ermöglicht es dir diese Extension eine Startseite für dein Firtz zu erzeugen | web,phone 
  | **Metadaten** | Mit dieser Funktion erweiterst du deinen Firtz um die fehlenden Metadaten | -
  | **Backbutton** | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web, tablet
  | **Sidebar** | Dies Funktion erweitert deine Startseite mit einer eigenen Sidebar | web
