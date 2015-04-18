@@ -31,6 +31,9 @@ name | description | compatible
 
 name | function | description | compatible
 ------------ | ------------- | ------------- | -------------
-**MultiCasting** | Backbutton, Sidebar, Social Icons | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web,phone 
- | **Backbutton** | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web
+**MultiCasting** | Metadaten, Backbutton, Sidebar, Social Icons, Spezial Footer, Feedlist | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann ermöglicht es dir diese Extension eine Startseite für dein Firtz zu erzeugen | web,phone 
+ | **Metadaten** | Mit dieser Funktion erweiterst du deinen Firtz um die fehlenden Metadaten | -
+ | **Backbutton** | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web, tablet
+ | **Sidebar** | Dies Funktion erweitert deine Startseite mit einer eigenen Sidebar | web
+ | **Social Icons** | Hier mit kannst Du auf deiner Startseite, alle deine Sozialen Links auflisten | web, phone, tablet
 
