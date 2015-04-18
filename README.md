@@ -2,8 +2,8 @@
 Dukumentationen 
 
 ****
-QuorX II **template.cfg**
-*in der <code>template.cfg</code> werden die angaben über key value erstellt! (kein ":")
+###QuorX II - Functions: *template.cfg*
+In der <code>template.cfg</code> werden die angaben über key value erstellt! (kein ":")
 
  | key | velues | description
 ------------ | ------------- | ------------- | -------------
@@ -14,6 +14,23 @@ QuorX II **template.cfg**
 **Animationen** | repeat | on/off | Hier steuerst Du, ob die Animation nach jedem Laden erneut ausgeführt werden sollen (on), oder ob diese nur nach dem Starten der Website geladen werden (off).
 **Design Anpassungen** | player | on/off | Hier mit regelst Du ob dein Firtz den QuorX Look (on) für den Podlove Webplayer, oder ob er das Standard Design von Podlove nutzen soll.
 **Design Anpassungen** | psb | on/off | Hier mit regelst Du ob dein Firtz den QuorX Look (on) für den Podlove Sub. Button, oder ob das Standard Design von Podlove nutzen soll.
-**MultiCasting** | backlink | on/off | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)*
-**Breadcrumb Navigation** | breadcrumb | on/off | Hier mit steuerst Du, ob dein QuorX eine zusätzliche Navigation der Unterseiten, unter der Header Tab-Navigation anzeigen soll. *(Erst für Version 2.1 geplant!)*
+
+
+****
+###QuorX II - Extensions:
+
+**Breadcrumb Navigation:**
+
+name | description | compatible
+------------ | ------------- | ------------- 
+**Breadcrumb Navigation** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | web,phone
+
+****
+
+**MultiCasting:**
+
+name | function | description | compatible
+------------ | ------------- | ------------- | -------------
+**MultiCasting** | Backbutton, Sidebar, Social Icons | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web,phone 
+ | **Backbutton** | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web
 
