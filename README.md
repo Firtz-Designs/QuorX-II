@@ -23,7 +23,7 @@ In der <code>template.cfg</code> werden die angaben über key value erstellt! (k
 
 name | description | compatible
 ------------ | ------------- | ------------- 
-**breadcrumb** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | web,phone
+**breadcrumb** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | web, phone
 
 ****
 
