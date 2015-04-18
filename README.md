@@ -1,5 +1,4 @@
-# quorx2.0_documentation
-Dukumentationen 
+# quorx2.0 Documentation
 
 ****
 ###QuorX II - Functions: *template.cfg*
