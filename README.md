@@ -6,3 +6,4 @@ Hier kommt eine vereinfachte Dokumentation zum neuen QuorX II.
 - [Datentabelle Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/Extensions.md)
 
 <img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/img/hooklines.png">
+<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/img/functionlines.png">
