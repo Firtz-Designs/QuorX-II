@@ -3,7 +3,6 @@
 1.0.1 Alpha - SID Deployment:
 
 - Info: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!
-
 - Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
 - Neu: **Hook:** "articles: head" für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
 - Neu: **Hook:** "phone, bar" für Breadcrumb eingebunden. Siehe /ext/search/
@@ -14,7 +13,6 @@
 - Neu: quorxJS - Animations (staticle)
 - Neu: quorxJS - Animations (repeats)
 - Neu: QuorX Design: Podlove-Subscribe-Button - CSS + fixes für Windows IE 10-11
-
 - Fixed: CSS Syntax bei Übernahme auf Firtz RC2.0 
 - Fixed: Tabnavigation hight & Logo
 - Fixed: Tablet width
