@@ -1,6 +1,11 @@
 #QuorX II changelog:
 
-1.0.1 Alpha - SID Deployment:
+Mit der Übernahme von QuorX I (Curie) direkt auf den Firtz, bekommt QuorX II nun auch einen neuen Projektnamen.
+QuorX I trug den internen Projektnamen "Curie", zu ehren einer der bekanntesten Physikerin<a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
+
+Den neuen Projektnamen beschließe ich mit QuorX II **(Parks)**. Als Widme ich einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
+
+*(Curie)* 1.0.1 Alpha - SID Deployment:
 
 - Info: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!
 - Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
@@ -56,3 +61,5 @@ player on
 
 multifavs on
 </pre>
+
+Letzter Stand: 25 Apr. 2015: QXII "Parks" 
