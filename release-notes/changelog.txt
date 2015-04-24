@@ -1,18 +1,27 @@
-changelog:
+#QuorX II changelog:
 
-1.0.0 Alpha - SID Deployment:
+1.0.1 Alpha - SID Deployment:
 
-- Neu: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt.
+- Info: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!
+
 - Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
-- Neu: Hook: für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
-- Neu: Extension Breadcrumb
-- Fixed: QuorX: CSS neu strukturiert, bugfixes ( + neue Standard Colors für QuorX)
-- Neu: QuorX Phone: CSS neu erarbeitet, strukturiert (full width)
+- Neu: **Hook:** "articles: head" für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
+- Neu: **Hook:** "phone, bar" für Breadcrumb eingebunden. Siehe /ext/search/
+- Neu: **Extension:** breadcrumb, search
+- Neu: QuorX Design Phone: CSS neu erarbeitet, strukturiert (full width)
+- Neu: Standard Colors für QuorX
 - Neu: Footer mit Breadcrumb und Social Icons
-- Neu: QuorX Animations
-- Neu: QuorX Animation Repeat
-- Fixed: Podlove Player CSS und einige CSS Fixes
-- Neu: QuorX: Podlove-Subscribe-Button CSS + fixes
+- Neu: quorxJS - Animations (staticle)
+- Neu: quorxJS - Animations (repeats)
+- Neu: QuorX Design: Podlove-Subscribe-Button - CSS + fixes für Windows IE 10-11
+
+- Fixed: CSS Syntax bei Übernahme auf Firtz RC2.0 
+- Fixed: Tabnavigation hight & Logo
+- Fixed: Tablet width
+- Fixed: QuorX Design: CSS neu strukturiert, bugfixes
+- Fixed: QuorX Design: Podlove-Webplayer - Anpassungen und einige CSS Fixes
+- Fixed: Seitenverdeckung bei Landscape zu Portrait Mode
+- Fixed: falsche auto scrollhöhen beim klicken des Scroll-To-Head Button im Footer 
 
 ###Neues template.cfg
 <pre>
