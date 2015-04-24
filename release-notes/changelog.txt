@@ -1,0 +1,51 @@
+changelog:
+
+1.0.0 Alpha - SID Deployment:
+
+- Neu: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt.
+- Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
+- Neu: Hook: für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
+- Neu: Extension Breadcrumb
+- Fixed: QuorX: CSS neu strukturiert, bugfixes ( + neue Standard Colors für QuorX)
+- Neu: QuorX Phone: CSS neu erarbeitet, strukturiert (full width)
+- Neu: Footer mit Breadcrumb und Social Icons
+- Neu: QuorX Animations
+- Neu: QuorX Animation Repeat
+- Fixed: Podlove Player CSS und einige CSS Fixes
+- Neu: QuorX: Podlove-Subscribe-Button CSS + fixes
+
+###Neues template.cfg
+<pre>
+#: --------------------------------------------
+#: QuorX-Design mit Standard Farben:
+#: --------------------------------------------
+
+color #44BA91
+light #B9C1C8
+dark #2E424D
+
+#: --------------------------------------------
+#: QuorX-Design mit Animationen:
+#: --------------------------------------------
+
+animation on
+repeat on
+
+#: --------------------------------------------
+#: QuorX-Design für Podlove-Subscribe-Button:
+#: --------------------------------------------
+
+psb on
+
+#: --------------------------------------------
+#: QuorX-Design für Podlove-Webplayer:
+#: --------------------------------------------
+
+player on
+
+#: --------------------------------------------
+#: QuorX-Design Multi Favicons:
+#: --------------------------------------------
+
+multifavs on
+</pre>
