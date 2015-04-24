@@ -6,7 +6,7 @@ QuorX I trug den internen namen "Curie". Zu Ehren einer der Physikerin: <a href=
 
 QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
 
-*(Curie)* 1.0.1 Alpha - SID Deployment:
+*(Parks)* 1.0.1 Alpha - SID Deployment:
 
 - Info: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!
 - Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
