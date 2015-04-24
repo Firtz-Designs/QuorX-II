@@ -4,8 +4,8 @@
 *
 */
 // Pfad
-$PicPathIn="./cover/"; // Pfad Original Cover
-$PicPathOut="./cover/"; // Pfad fertige Cover - Chmod 777 !!
+$PicPathIn="./multifavs/"; // Pfad Original Cover
+$PicPathOut="./multifavs/"; // Pfad fertige Cover - Chmod 777 !!
 
 	//benötigte Covers
 	$picwidth16 = 16;
