@@ -5,8 +5,8 @@
 - Info: Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!
 - Neu: Multifavicons als Idee: siehe https://github.com/McCouman/quorx2.0_documentation/tree/master/ext
 - Neu: **Hook:** "articles: head" für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
-- Neu: **Hook:** "phone, bar" für Breadcrumb eingebunden. Siehe /ext/search/
-- Neu: **Extension:** breadcrumb, search
+- Neu: **Hook:** "phone, bar" für die Extension search eingebunden. Siehe /ext/search/
+- Neu: **Extensions:** breadcrumb, search
 - Neu: QuorX Design Phone: CSS neu erarbeitet, strukturiert (full width)
 - Neu: Standard Colors für QuorX
 - Neu: Footer mit Breadcrumb und Social Icons
