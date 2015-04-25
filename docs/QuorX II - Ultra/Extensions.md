@@ -17,3 +17,6 @@ name | function | description | compatible
  | **Backbutton** | Möchtest Du mehrere Podcasts mit einem Firtz betreiben, dann kannst Du ein Backbutton Link (<) in der Headernavigation anzeigen lassen. *(Erst für Version 2.1 geplant!)* | web, tablet
  | **Sidebar** | Dies Funktion erweitert deine Startseite mit einer eigenen Sidebar | web
  | **Social Icons** | Hier mit kannst Du auf deiner Startseite, alle deine Sozialen Links auflisten | web, phone, tablet
+ 
+ 
+<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/buy/hooklines.png">
