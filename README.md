@@ -10,7 +10,7 @@ QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz beso
 
 - [Freeversion: Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
 - [Freeversion: Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
-- 
+
 <img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/free/firtz-funktionlines.png">
 
 ####Changelog
