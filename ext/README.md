@@ -15,8 +15,10 @@ Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*
 
 <img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/ext/multifavs1.png">
 
-6.trage nun noch zum Schluss in der template.cfg unter /templates/default/ den Code <code>multifavs off</code> auf <code>multifavs <b>on</b></code>.
+6.Ändere nun die Rechte deines Ordners /multifavs/ wieder auf die Standardrechte um. Hat alles geklappt, kannst Du die Datei <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/helper">cover-creator.php</a> aus dem Image Ordner löschen.
+
+7.Schreibe nun zum Schluss in der template.cfg unter /templates/default/ den Code <code>multifavs off</code> auf <code>multifavs <b>on</b></code> um.
 
 <img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/ext/multifavs2.png">
 
-Fertig :D
+Dit wars, Fertig :D
