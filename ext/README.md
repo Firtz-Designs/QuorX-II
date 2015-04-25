@@ -1,7 +1,7 @@
 ## QuorX II: Multi Favicons erstellen
 
 
-Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*cover-creator.php*".
+Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*<a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/helper">cover-creator.php</a>*".
 
 1.Lade die Datei in den Pfad /images/ deines Firtz und erstelle den Ordner: /multifavs/.
 
