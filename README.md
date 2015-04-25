@@ -7,7 +7,11 @@ QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz beso
 
 ###Freeversion
 
-Diese findest Du als Standard Theme im Firtz vorinstalliert.
+Diese findest Du als Standard Theme im Firtz vorinstalliert. (Verwendung als Mono-Podcasting)
+
+####Demo
+
+http://firtz.wikibyte.org
 
 ####Changelog
 
@@ -102,7 +106,11 @@ multifavs on
 
 ###Kaufversion
 
-Diese findest Du als Standard Theme im Firtz vorinstalliert.
+Dies ist die "QuorX II Ultra" Version mit vielen weiteren Erweiterungen, Funktionen und ausgearbeiteten Designideen für dein Firtz. (Verwendung als Mono- oder Multipodcasting). 
+
+####Demo
+
+http://firtz-design.wikibyte.org
 
 ####Changelog
 
