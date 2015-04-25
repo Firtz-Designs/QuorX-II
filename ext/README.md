@@ -5,7 +5,7 @@ Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*
 
 1.Lade die Datei in den Pfad /images/ deines Firtz und erstelle den Ordner: /multifavs/.
 
-2.Gebe dem Order (multifavs) über Shell oder FTPs die Rechte 777 (Chmod 777) damit die PHP Datei auch die Covers in den unterschiedlichen Größen erstellen kann.
+2.Gebe dem Order (multifavs) über Shell oder FTPs die Schreibrechte (Chmod 777) damit die PHP Datei auch die Covers in den unterschiedlichen Größen erstellen kann.
 
 3.Lade nun dein Podcast-Cover (1400x1400 Pixel groß!) in den Ordner multifavs hoch.
 
