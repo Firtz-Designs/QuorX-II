@@ -1,4 +1,4 @@
-## QuorX-Design Multi Favicons erstellen:
+## QuorX II: Multi Favicons erstellen
 
 
 Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*cover-creator.php*".
