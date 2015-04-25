@@ -8,11 +8,6 @@ QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz beso
 
 ###Freeversion
 
-- [Freeversion: Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
-- [Freeversion: Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
-
-<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/free/firtz-funktionlines.png">
-
 ####Changelog
 
 *(Parks)* 1.0.0 Alpha - SID Deployment:
@@ -49,7 +44,9 @@ QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz beso
 - Redesign: QuorX PlugIns: Podlove-Subscribe-Button CSS
 - Redesign: QuorX PlugIns: Podlove-Webplayer CSS
 
-###Neues template.cfg
+Letzter Stand: 25 Apr. 2015: QXII "Parks" 
+
+#####Neue template.cfg
 <pre>
 #: --------------------------------------------
 #: QuorX-Design mit Standard Farben:
@@ -85,7 +82,13 @@ player on
 multifavs on
 </pre>
 
-Letzter Stand: 25 Apr. 2015: QXII "Parks" 
+<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/free/firtz-funktionlines.png">
+
+
+
+- [Freeversion: Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
+- [Freeversion: Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
+
 
 
 
