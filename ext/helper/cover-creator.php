@@ -13,14 +13,13 @@ $PicPathOut="./multifavs/"; // Pfad fertige Cover - Chmod 777 !!
 	$picwidth57 = 57;
 	$picwidth60 = 60;
 	$picwidth72 = 72;
-	$picwidth76	= 76;
+	$picwidth76 = 76;
 	$picwidth96 = 96;
 	$picwidth114 = 114; 
 	$picwidth120 = 120;
 	$picwidth144 = 144;
 	$picwidth152 = 152;
 	$picwidth160 = 160;
-
 
 	// Orginal Cover
 	$cover = "cover.png";
@@ -53,7 +52,7 @@ $PicPathOut="./multifavs/"; // Pfad fertige Cover - Chmod 777 !!
 	
 	$newwidth57 = $picwidth57; 
 	$newheight57 = intval( $height * $newwidth57 / $width );
-		
+	
 	// PNG
 	$newwidth60 = $picwidth60; 
 	$newheight60 = intval( $height * $newwidth60 / $width );
@@ -87,7 +86,7 @@ if( $size[2] == 1 ) {
 	// Es ist ein GIF 
 	$origcover = ImageCreateFromGIF( $PicPathIn . $cover ); 
 	
-		//JPEG
+	//JPEG
 	$newscover16 = imagecreatetruecolor( $newwidth16, $newheight16 ); 
 	ImageCopyResized( $newscover16, $origcover, 0, 0, 0, 0, $newwidth16, $newheight16, $width, $height ); 
 	ImageJPEG( $newscover16, $PicPathOut . $new_cover16 ); 	
@@ -120,7 +119,7 @@ if( $size[2] == 1 ) {
 	$newscover114 = ImageCreate( $newwidth114, $newheight114 ); 
 	ImageCopyResized( $newscover114, $origcover, 0, 0, 0, 0, $newwidth114, $newheight114, $width, $height ); 
 	ImagePNG( $newscover114, $PicPathOut . $new_cover114 );	
-		
+	
 	$newscover120 = ImageCreate( $newwidth120, $newheight120 ); 
 	ImageCopyResized( $newscover120, $origcover, 0, 0, 0, 0, $newwidth120, $newheight120, $width, $height ); 
 	ImagePNG( $newscover120, $PicPathOut . $new_cover120 );
@@ -142,7 +141,7 @@ if( $size[2] == 2 ) {
 	// Es ist ein JPG 
 	$origcover = ImageCreateFromJPEG( $PicPathIn . $cover ); 
 	
-		//JPEG
+	//JPEG
 	$newscover16 = imagecreatetruecolor( $newwidth16, $newheight16 ); 
 	ImageCopyResized( $newscover16, $origcover, 0, 0, 0, 0, $newwidth16, $newheight16, $width, $height ); 
 	ImageJPEG( $newscover16, $PicPathOut . $new_cover16 ); 	
@@ -175,7 +174,7 @@ if( $size[2] == 2 ) {
 	$newscover114 = ImageCreate( $newwidth114, $newheight114 ); 
 	ImageCopyResized( $newscover114, $origcover, 0, 0, 0, 0, $newwidth114, $newheight114, $width, $height ); 
 	ImagePNG( $newscover114, $PicPathOut . $new_cover114 );	
-		
+	
 	$newscover120 = ImageCreate( $newwidth120, $newheight120 ); 
 	ImageCopyResized( $newscover120, $origcover, 0, 0, 0, 0, $newwidth120, $newheight120, $width, $height ); 
 	ImagePNG( $newscover120, $PicPathOut . $new_cover120 );
@@ -230,7 +229,7 @@ if( $size[2] == 3 ) {
 	$newscover114 = ImageCreate( $newwidth114, $newheight114 ); 
 	ImageCopyResized( $newscover114, $origcover, 0, 0, 0, 0, $newwidth114, $newheight114, $width, $height ); 
 	ImagePNG( $newscover114, $PicPathOut . $new_cover114 );	
-		
+	
 	$newscover120 = ImageCreate( $newwidth120, $newheight120 ); 
 	ImageCopyResized( $newscover120, $origcover, 0, 0, 0, 0, $newwidth120, $newheight120, $width, $height ); 
 	ImagePNG( $newscover120, $PicPathOut . $new_cover120 );
