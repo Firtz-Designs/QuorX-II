@@ -87,7 +87,7 @@ player on
 #: QuorX-Design Multi Favicons:
 #: --------------------------------------------
 
-multifavs on
+multifavs off
 </pre>
 
 
