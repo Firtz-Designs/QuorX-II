@@ -21,8 +21,8 @@ http://firtz.wikibyte.org
 - Idee: Multifavicons: Siehe <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext">hier</a> zum automatischen erstellen der Favicons!
 - Neu: **Hook:** "breadcrumb" für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
 - Neu: **Hook:** "phone, bar" für die Extension search eingebunden. Siehe /ext/search/
-- Neu: **Extensions:** breadcrumb 
-- Neu: **Extensions:** search
+- Neu: **Extensions:** <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/breadcrumb">breadcrumb</a>
+- Neu: **Extensions:** <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/search">search</a>
 - Neu: QuorX Design: neue StandardFarben für das QuorX (color #44BA91, light #B9C1C8, dark #2E424D)
 - Neu: QuorX Design: Footer mit Breadcrumb und Social Icons
 - Neu: QuorX Design: Podlove-Subscribe-Button - CSS + fixes für Windows IE 10-11
@@ -43,11 +43,12 @@ http://firtz.wikibyte.org
 - Fixed: QuorX Design: Podlove-Webplayer - Anpassungen und einige CSS Fixes
 - Fixed: Seitenverdeckung bei Landscape zu Portrait Mode
 - Fixed: falsche auto scrollhöhen beim klicken des Scroll-To-Head Button im Footer 
-- Minis: Extension: shariff (eingefügt: hr)
-- Redesign: Extension: contributors (mit leeravatar bei fehlenden Image, discription und full-view layout)
-- Redesign: Extension: disqus
+- Minis: Extension: <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/shariff">shariff</a> (eingefügt: hr)
+- Redesign: Extension: <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/contributors">contributors</a> (mit leeravatar bei fehlenden Image, discription und full-view layout)
+- Redesign: Extension: <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/disqus">disqus</a>
 - Redesign: QuorX PlugIns: Podlove-Subscribe-Button CSS
 - Redesign: QuorX PlugIns: Podlove-Webplayer CSS
+- Demo Extension: <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/demo-sidebars">demo-sidebars</a> - Zeigt auf unterschiedlichen Seiten, unterschiedliche Sidebars an.
 
 Letzter Stand: 25 Apr. 2015: QXII "Parks" 
 
