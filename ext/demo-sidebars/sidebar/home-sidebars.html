@@ -1,0 +1,17 @@
+<?php /*--------- home sidebar ---------*/ ?>	
+
+<check if="{{@singlepage==false && isset(@item)}}">
+<div class="firtz-sidebar-b firtz-panel firtz-hidden-medium firtz-hidden-small widget_text" style="margin-bottom: 20px;" <check if="{{@templatevars.animation == 'on'}} ">data-firtz-scrollspy="{cls:'firtz-animation-slide-bottom', <check if="{{@templatevars.repeat == 'on'}} ">repeat: true</check><check if="{{@templatevars.repeat == 'off'}} ">repeat: false</check>}"</check>>
+	<div style="padding-top: 20px" align="center">
+		<h4>Home Sidebar</h4>
+	</div>
+	<hr>
+	<div style="padding: 2px 30px;" align="center">
+		<p><!--//Dein Text hier...-->
+			Dieser Sidebar ist <b>nur</b> auf der Home Seite sichtbar ;) 
+		</p>
+	</div>
+</div>
+</check>
+
+<?php /*---------//home sidebar ---------*/ ?>

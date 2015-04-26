@@ -1,0 +1,18 @@
+<?php /*--------- page sidebar ---------*/ ?>	
+
+<check if="{{!@showpage}}">
+<false>
+	<div class="firtz-sidebar-b firtz-panel firtz-hidden-medium firtz-hidden-small widget_text" style="margin-bottom: 20px;" <check if="{{@templatevars.animation == 'on'}} ">data-firtz-scrollspy="{cls:'firtz-animation-slide-bottom', <check if="{{@templatevars.repeat == 'on'}} ">repeat: true</check><check if="{{@templatevars.repeat == 'off'}} ">repeat: false</check>}"</check>>
+		<div class="sideline" align="center">				
+			<h3 style="color:#fff;">Page Sidebar</h3>
+		</div>
+		<div align="center" style="padding: 25px 30px;">
+			<p><!--//Dein Text hier...-->
+			Dieser Sidebar ist <b>nur</b> auf einer Seite (/page/) sichtbar ;) 
+			</p>
+		</div>
+	</div>
+</false>
+</check>
+
+<?php /*---------//page sidebar ---------*/ ?>

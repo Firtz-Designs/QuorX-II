@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
        height="1063.0483"
        x="-8.7828255"
        y="-5.9682417"
-       inkscape:export-filename="/Users/McCouman/Downloads/quorx2.0_documentation/img/hooklines.png"
+       inkscape:export-filename="/Users/McCouman/Downloads/quorx2.0_documentation/docs/img/free/firtz-funktionlines.png"
        inkscape:export-xdpi="245.8569"
        inkscape:export-ydpi="245.8569" />
     <path
