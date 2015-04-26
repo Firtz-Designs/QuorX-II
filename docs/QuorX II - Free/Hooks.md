@@ -1,6 +1,6 @@
 ###QuorX II - New Hooks:
 
-**Hook/Templates: Breadcrumb **
+**Hook/Templates: Breadcrumb**
 
 name | description | used for
 ------------ | ------------- | ------------- 
