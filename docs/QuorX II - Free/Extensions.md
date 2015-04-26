@@ -1,6 +1,9 @@
 ###QuorX II - Extensions:
+*****
 
-####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel tun ändern ;)
+####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel ändern ;)
+
+*****
 
 Dies sind die zusätzlichen Erweiterungen für das QuorX II Releas (Parks). 
 Du kannst Sie auch einfach <a href="https://github.com/McCouman/quorx2.0_documentation/raw/master/ext/Extensions.zip">hier herunterladen</a>.
