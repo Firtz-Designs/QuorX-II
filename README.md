@@ -12,7 +12,7 @@ QuorX II trägt nun den Namen **(Parks)** und widme ich einer ganz besondere Fra
 
 *****
 
-Diese findest Du als Standard Theme im Firtz vorinstalliert. (Verwendung als Mono-Podcasting)
+QXII befindet sich später als "Standard Theme" im Firtz vorinstalliert. (Entwickelt als Verwendung im  Monopodcasting Bereich)
 
 ####Demo
 
