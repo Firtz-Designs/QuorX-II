@@ -7,7 +7,7 @@ Zum automatischen erstellen der MultiFavicons, benötigst Du die Hilfe-Datei: "*
 
 2.Gebe dem Order (multifavs) über Shell oder FTPs die Schreibrechte (Chmod 777) damit die PHP Datei auch die Covers in den unterschiedlichen Größen erstellen kann.
 
-3.Lade nun dein Podcast-Cover (1400x1400 Pixel groß!) in den Ordner multifavs hoch. Ändere (wenn nicht schon getan) den Namen deines PodcastLogos auf **cover** (.gif/.jpg/.png)! 
+3.Lade nun dein Podcast-Cover (1400x1400 Pixel groß!) in den Ordner multifavs hoch. Ändere (wenn nicht schon getan) den Namen deines Podcastlogos auf **cover** (.gif/.jpg/.png)! 
 
 4.Greife nun über Web auf die Datein **cover-creator.php** zu. Zum Bsp.: https://mein-podcast.tld/images/cover-creator.php
 
