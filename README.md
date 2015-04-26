@@ -23,7 +23,7 @@ http://firtz.wikibyte.org
 - Neu: **Hook:** "phone, bar" für die Extension search eingebunden. Siehe /ext/search/
 - Neu: **Extensions:** <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/breadcrumb">breadcrumb</a>
 - Neu: **Extensions:** <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/search">search</a>
-- Neu: QuorX Design: neue StandardFarben für das QuorX (color #44BA91, light #B9C1C8, dark #2E424D)
+- Neu: QuorX Design: neue Standard-Farben für das QuorX bei der Auslieferung (color #44BA91, light #B9C1C8, dark #2E424D)
 - Neu: QuorX Design: Footer mit Breadcrumb und Social Icons
 - Neu: QuorX Design: Podlove-Subscribe-Button - CSS + fixes für Windows IE 10-11
 - Neu: QuorX Design Phone: CSS neu erarbeitet, strukturiert (full width)
