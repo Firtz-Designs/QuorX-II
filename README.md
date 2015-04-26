@@ -13,6 +13,12 @@ Diese findest Du als Standard Theme im Firtz vorinstalliert. (Verwendung als Mon
 
 http://firtz.wikibyte.org
 
+####Dokumentation
+
+- [Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
+- [Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
+- [Template/Hooks](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX%20II%20-%20Free/Hooks.md)
+
 ####Changelog
 
 *(Parks)* 1.0.0 Alpha - SID Deployment:
@@ -89,14 +95,6 @@ player on
 
 multifavs off
 </pre>
-
-
-####Dokumentation
-
-- ...in Arbeit
-- [Freeversion: Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
-- [Freeversion: Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
-- ...in Arbeit
 
 
 ####Funktionsbild
