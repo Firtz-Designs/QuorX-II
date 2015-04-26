@@ -18,7 +18,7 @@ http://firtz.wikibyte.org
 *(Parks)* 1.0.0 Alpha - SID Deployment:
 
 - Info: **Suche + JS erst einmal herausgenommen und durch die Extension search ersetzt!**
-- Idee: Multifavicons: Siehe <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext">hier</a> zum automatischen erstellen der Favicons!
+- Idee: Multifavicons: Siehe <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/helper">hier</a> zum automatischen erstellen der Favicons!
 - Neu: **Hook:** "breadcrumb" für Breadcrumb eingebunden. Siehe /ext/breadcrumb/
 - Neu: **Hook:** "phone, bar" für die Extension search eingebunden. Siehe /ext/search/
 - Neu: **Extensions:** <a href="https://github.com/McCouman/quorx2.0_documentation/tree/master/ext/breadcrumb">breadcrumb</a>
