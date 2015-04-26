@@ -1,6 +1,7 @@
 ###QuorX II - Extensions:
 
-Dies sind die zusätzlichen Erweiterungen für das QuorX II Releas (Parks). Du kannst Sie auch einfach <a herf="https://github.com/McCouman/quorx2.0_documentation/raw/master/ext/Extensions.zip">hier herunterladen</a>.
+Dies sind die zusätzlichen Erweiterungen für das QuorX II Releas (Parks). 
+Du kannst Sie auch einfach <a href="https://github.com/McCouman/quorx2.0_documentation/raw/master/ext/Extensions.zip">hier herunterladen</a>.
 
 
 **Breadcrumb Navigation:**
