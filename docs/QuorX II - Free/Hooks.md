@@ -1,5 +1,9 @@
 ###QuorX II - New Hooks:
 
+####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel tun ändern ;)
+
+Dies sind die neuen Template/Hooks für das QuorX II Design, welches in Firtz als standard vorinstalliert ist. 
+
 **Hook/Templates: Breadcrumb**
 
 name | description | used for
