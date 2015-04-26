@@ -12,11 +12,11 @@ name | description | compatible
 
 ****
 
-**Search Navigation:**
+**Search in Navigation and Phone View:**
 
 name | description | compatible
 ------------ | ------------- | ------------- 
-**search** | Diese Extension erweitert Firtz mit einer Suchfunktion in der QuorX-Navigation. | web, phone, tablet
+**search** | Diese Extension erweitert Firtz mit einer Suchfunktion in der QuorX-Navigation. **Beachte, das die Suche noch nicht im TabletMode funktioniert!** | web, phone, tablet
 
 
 ****
@@ -36,4 +36,26 @@ name | description | compatible
 
 name | description | compatible
 ------------ | ------------- | ------------- 
-**siedbars** | Diese Extension zeigt dir die Möglichkeiten auf, wie Du neue Sidebars in dein QuorX bekommst und auf den unterschiedlichsten Seiten anzeigen kannst. So kannst Du zum Bsp.: eine Sidebar erstellen, die **nur** unter den Episoden erscheinen soll, oder aber nur auf einer Artikelseite angezeigt werden...   | web
+**demo-siedbars** | Diese Extension zeigt dir die Möglichkeiten auf, wie Du neue Sidebars in dein QuorX bekommst und auf den unterschiedlichsten Seiten anzeigen kannst. So kannst Du zum Bsp.: eine Sidebar erstellen, die **nur** unter den Episoden erscheinen soll, oder aber nur auf einer Artikelseite angezeigt werden...   | web
+
+
+****
+
+
+**Shariff:**
+
+name | description | compatible
+------------ | ------------- | ------------- 
+**shariff** | Hier gab es nur eine kleine Änderung, aber die ist wichtig zur Abtrennung ;) | web, tablet, phone
+
+
+****
+
+
+**Disqus:**
+
+name | description | compatible
+------------ | ------------- | ------------- 
+**disqus** | Hier gab es ein Paar Änderung, die beim Einsatz durch die Shariff Extension ein hergehen! | web, tablet, phone
+
+
