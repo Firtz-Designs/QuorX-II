@@ -1,9 +1,7 @@
 # QuorX 2.0 Documentation
 
 Mit der Übernahme von QuorX I (Curie) direkt auf das Firtz, bekommt QuorX II nun auch einen neuen Projektnamen.
-QuorX I trug den internen Namen: "Curie" (angelehnt an die Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>).
-
-QuorX II trägt nun den Namen **(Parks)** und widme ich einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
+QuorX I trug den internen Namen: "Curie" (angelehnt an die Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>). QuorX II trägt nun den Namen **(Parks)** und widme ich einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
 
 ###Freeversion
 *****
