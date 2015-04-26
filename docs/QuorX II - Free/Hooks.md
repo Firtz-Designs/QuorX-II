@@ -1,18 +1,29 @@
 ###QuorX II - New Hooks:
 
-**Breadcrumb Navigation:**
+**Hook/Templates: Breadcrumb **
 
 name | description | used for
 ------------ | ------------- | ------------- 
-**breadcrumb** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | breadcrumb extension
+**/breadcrumb/** | Diesen Hook nutzt unter anderem die Extension breadcrumb, um eine Breadcrumb Navigation über den Artikeln einzufügen. | breadcrumb extension
 
 
 *****
 
 
-**Search Navigation:**
+**Hook/Templates: Bar & Phone:**
 
 name | description | used for
 ------------ | ------------- | ------------- 
-**phone** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | search extension
-**bar** | Diese Extension erweitert dein QuorX mit einer Breadcrumb über den Artikeln. | search extension
+**/phone/** | Diesen Hook nutz die Extension search zum einbinden der Suchfunktionen im PhoneView. | search extension
+**/bar/** | Dies nutz die Extension search zum einbinden der Suchfunktionen in der Header-Navigation von QuorX. | search extension
+
+
+
+*****
+
+
+**Hook/Templates: Contibutor: (Testweise)**
+
+name | description | used for
+------------ | ------------- | ------------- 
+**/contibutors/** | Diesen Hook nutz die Extension contibutors zum einbinden der Contributoren Tabelle, damit diese Über den Shownotes ausgegeben wird. **Sie ist zur Zeit nur Testweise als Hook enthalten und muss noch einen richtigen Namen bekommen. Es kann sein, das dieser Template/Hook wieder aus dem Template entfernt wird.** | contibutors extension
