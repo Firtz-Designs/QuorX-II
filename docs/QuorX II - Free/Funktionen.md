@@ -1,5 +1,11 @@
 # QuorX 2.0 Datentabelle Funktionen
 
+*****
+
+####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel ändern ;)
+
+*****
+
 
 ###QuorX II - Functions: *template.cfg*
 In der <code>template.cfg</code> werden die angaben über key value erstellt! (kein ":")
