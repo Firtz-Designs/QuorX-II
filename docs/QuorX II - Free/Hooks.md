@@ -6,7 +6,7 @@
 
 *****
 
-Dies sind die neuen Template/Hooks für das QuorX II Design, welches in Firtz als standard vorinstalliert ist. 
+Dies sind die neuen Template/Hooks welche im QuorX II Design als Standard vorinstalliert sind. 
 
 
 
