@@ -6,6 +6,11 @@ Dabei trug das QuorX I Design den internen Namen: "Curie". Zu Ehren der Physiker
 QuorX II trägt nun den Namen **(Parks)** und widme ich zu Ehren einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
 
 ###Freeversion
+*****
+
+####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel ändern ;)
+
+*****
 
 Diese findest Du als Standard Theme im Firtz vorinstalliert. (Verwendung als Mono-Podcasting)
 
