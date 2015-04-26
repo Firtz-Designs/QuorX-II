@@ -22,7 +22,7 @@ name | description | compatible
 ****
 
 
-**Contributors Navigation:**
+**Podcaster & Contributors:**
 
 name | description | compatible
 ------------ | ------------- | ------------- 
@@ -32,7 +32,7 @@ name | description | compatible
 ****
 
 
-**Demo Sidebars:**
+**Demo: More Sidebars:**
 
 name | description | compatible
 ------------ | ------------- | ------------- 
@@ -42,7 +42,7 @@ name | description | compatible
 ****
 
 
-**Shariff:**
+**Social Network Connection: (Shariff)**
 
 name | description | compatible
 ------------ | ------------- | ------------- 
@@ -52,7 +52,7 @@ name | description | compatible
 ****
 
 
-**Disqus:**
+**Comments about Disqus:**
 
 name | description | compatible
 ------------ | ------------- | ------------- 
