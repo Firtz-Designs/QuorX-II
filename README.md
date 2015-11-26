@@ -4,13 +4,10 @@ Mit der Übernahme von QuorX I (Curie) direkt auf das Firtz, bekommt QuorX II nu
 QuorX I trug den internen Namen: "Curie" (angelehnt an die Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>). QuorX II trägt nun den Namen **(Parks)** und widme ich einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
 
 ###Version 2.0
-*****
-
 QXII befindet sich später als "Standard Theme" im Firtz vorinstalliert. (Entwickelt als Verwendung im  Monopodcasting Bereich)
 
-
-### Ältere Versionen
-* <a href="https://github.com/Firtz-Designs/QuorX-I">**QuorX - Version 1 (Curie)**</a> - QuorX I, trug den Projektnamen: "Curie". Zu Ehren der Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
+##### Ältere Versionen
+* <a href="https://github.com/Firtz-Designs/QuorX-I">**QuorX** - Version 1 (Curie)</a> - QuorX I, trug den Projektnamen: **"Curie"**. Zu Ehren der Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
 
 
 ####Demo
