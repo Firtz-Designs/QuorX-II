@@ -3,11 +3,7 @@
 Mit der Übernahme von QuorX I (Curie) direkt auf das Firtz, bekommt QuorX II nun auch einen neuen Projektnamen.
 QuorX I trug den internen Namen: "Curie" (angelehnt an die Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>). QuorX II trägt nun den Namen **(Parks)** und widme ich einer ganz besondere Frau: <a href="http://de.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>.
 
-###Freeversion
-*****
-
-####INFO: Draft! - Dies ist eine 1.0.0 Versionsvorschau und es kann sich noch viel ändern ;)
-
+###Version 2.0
 *****
 
 QXII befindet sich später als "Standard Theme" im Firtz vorinstalliert. (Entwickelt als Verwendung im  Monopodcasting Bereich)
@@ -103,31 +99,3 @@ multifavs off
 ####Funktionsbild
 
 <img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/free/firtz-funktionlines.png">
-
-
-
-****
-
-###Kaufversion
-
-Dies ist die "QuorX II Ultra" Version mit vielen weiteren Erweiterungen, Funktionen und ausgearbeiteten Designideen für dein Firtz. (Verwendung als Mono- oder Multipodcasting). 
-
-####Demo
-
-http://firtz-design.wikibyte.org
-
-####Changelog
-
-- ...in Arbeit
-
-####Dokumentation
-
-- ...in Arbeit
-- [Datentabelle Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Ultra/Funktionen.md)
-- [Datentabelle Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Ultra/Extensions.md)
-- ...in Arbeit
-
-####Funktionsbild
-
-<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/buy/hooklines.png">
-<img src="https://raw.githubusercontent.com/McCouman/quorx2.0_documentation/master/docs/img/buy/functionlines.png">
