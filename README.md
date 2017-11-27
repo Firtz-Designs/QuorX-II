@@ -16,8 +16,8 @@ http://firtz.wikibyte.org
 
 #### Dokumentation
 
-- [Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Funktionen.md)
-- [Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX II - Free/Extensions.md)
+- [Funktionen](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX%20II%20-%20Free/Funktionen.md)
+- [Extensions](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX%20II%20-%20Free/Extensions.md)
 - [Template/Hooks](https://github.com/McCouman/quorx2.0_documentation/blob/master/docs/QuorX%20II%20-%20Free/Hooks.md)
 
 #### Changelog
