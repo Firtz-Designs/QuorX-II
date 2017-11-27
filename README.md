@@ -10,7 +10,7 @@ QXII befindet sich später als "Standard Theme" im Firtz vorinstalliert. (Entwic
 * <a href="https://github.com/Firtz-Designs/QuorX-I">**QuorX** - Version 1 (Curie)</a> - QuorX I, trug den Projektnamen: **"Curie"**. Zu Ehren der Physikerin: <a href="http://de.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>.
 
 
-####Demo
+#### Demo
 
 http://firtz.wikibyte.org
 
